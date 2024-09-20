@@ -3,7 +3,7 @@
 
 只使用了request 和time库
 
-直接运行main函数即可
+直接运行main.py即可
 
 ## 运行结果
 
